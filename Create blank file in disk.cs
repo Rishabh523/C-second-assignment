@@ -2,7 +2,7 @@ class Program
 {
     static void Main()
     {
-        string filePathname = @"Rishabh:\\BlankFile.txt";
+        string filePathname = @"D:\\BlankFile.txt";
 
         try
         {
